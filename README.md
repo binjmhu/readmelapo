@@ -27,7 +27,7 @@ Para contribuir com o desenvolvimento do site, solicitamos que siga os passos ab
 ####  1. Clone o repositorio
 
 ```console
-git clone https://github.com/ThiagoAciole/echologic-web-front.git
+git clone git@github.com:ThiagoAciole/echologic-web-front.git
 ```
  
   #### 2. Crie uma branch local
