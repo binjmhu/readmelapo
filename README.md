@@ -16,10 +16,9 @@ Este é um projeto para a Semana do Meio Ambiente do IFPB Campus Campina Grande,
 </p>
 <br>
 
-<div align="center" >
+## 💻 Visualize nosso site!!
 <a href="https://echologic.online/" target="_blank">Preview do Site</a>
-</div>
-
+<br><br>
 ## 🔎 Como contribuir?
 
 Para contribuir com o desenvolvimento do site, solicitamos que siga os passos abaixo descritos:
