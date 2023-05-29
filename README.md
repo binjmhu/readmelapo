@@ -59,19 +59,19 @@ git checkout -b <nome_da_branch>
 #### 4. Fazendo commits
   
    - Após as modificações, verifique os todos os arquivos alterados utilizando o comando: 
-  ```
+  ```console
   git status
   ```
    - Adicione todos os arquivos que deseja subir executando: 
-  ```
+  ```console
   git add .
   ```
    - Mande o commit executando: 
-  ```
+  ```console
   git commit -m "mensagem do commit"
   ```
    - Para a mensagem do commit siga o padrão deste exemplo: 
-  ```
+  ```console
   feat(#3): frase do commit
   
   (esse "3" é o número da issue que você estará operando)
